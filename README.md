@@ -1,3 +1,4 @@
+![alt text](https://github.com/M4R14/react-xo/blob/master/example.PNG?raw=true)
 ```jsx
 import React, { Component } from 'react';
 import XO from './react-xo';
